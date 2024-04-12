@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "releaseDate": "2001-11-16",
+    "trailerLink": "https://www.youtube.com/watch?v=eKSB0gXl9dw",
+    "poster": "harry_potter_poster.jpg",
+    "genders": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "releaseDate": "2001-12-19",
+    "trailerLink": "https://www.youtube.com/watch?v=V75dMMIW2B4",
+    "poster": "lord_of_the_rings_poster.jpg",
+    "genders": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "The Matrix",
+    "releaseDate": "1999-03-31",
+    "trailerLink": "https://www.youtube.com/watch?v=vKQi3bBA1y8",
+    "poster": "matrix_poster.jpg",
+    "genders": [
+      "Action",
+      "Sci-Fi"
+    ]
+  }
+]
